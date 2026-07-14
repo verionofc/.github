@@ -50,6 +50,6 @@ Entre em contato conosco para dúvidas, parcerias, suporte ou contribuições:
 
 <p align="center">
     <a href="https://github.com/verionofc/.github/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/verionofc/.github?style=for-the-badge&logo=github&color=050505&labelColor=fff" />
+        <img src="https://img.shields.io/github/license/verionofc/.github?style=for-the-badge&logo=github&color=050505&labelColor=fffff" />
     </a>
 </p>
