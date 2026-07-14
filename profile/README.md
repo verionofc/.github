@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/verionofc/.github/main/widgets/icon.svg"
+  src="https://raw.githubusercontent.com/verionofc/.github/main/assets/verion/svg/favicon.svg"
   alt="Logo da Verion Studio"
   width="128"
 />
@@ -15,5 +15,8 @@
 
 <div align="center">
 
-
 ![Divider](https://raw.githubusercontent.com/verionofc/.github/main/components/ui/divider.svg)
+
+Copyright &copy; 2026 @yeyTaken & Verion Studio, Inc. All rights reserved.
+
+</div>
