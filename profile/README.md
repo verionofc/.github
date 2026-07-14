@@ -80,7 +80,7 @@ Entre em contato conosco para dúvidas, parcerias, suporte ou contribuições:
 <br />
 
 <p align="center">
-  <a href="https://github.com/verionofc/.github/blob/main/LICENSE">
+  <a href="https://github.com/verionofc/.github/main/LICENSE">
     <img
       src="https://img.shields.io/github/license/verionofc/.github?style=for-the-badge&logo=apache&color=050505&labelColor=808080"
       alt="Apache License 2.0"
