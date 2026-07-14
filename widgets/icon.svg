@@ -23,14 +23,14 @@
 
   <image
     class="dark"
-    href="https://raw.githubusercontent.com/verionofc/.github/main/assets/verion/svg/symbol.svg"
+    href="https://raw.githubusercontent.com/verionofc/.github/refs/heads/main/assets/verion/svg/symbol-black.svg"
     width="48"
     height="48"
   />
 
   <image
     class="light"
-    href="https://raw.githubusercontent.com/verionofc/.github/main/assets/verion/svg/symbol-black.svg"
+    href="https://raw.githubusercontent.com/verionofc/.github/refs/heads/main/assets/verion/svg/symbol.svg"
     width="48"
     height="48"
   />
