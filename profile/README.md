@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="../assets/verion/svg/favicon.svg"
+  src="https://raw.githubusercontent.com/verionofc/.github/main/widgets/icon.svg"
   alt="Logo da Verion Studio"
   width="128"
 />
@@ -15,10 +15,5 @@
 
 <div align="center">
 
-<img
-  src="../components/footer.svg"
-  width="100%"
-  alt="Verion Studio Footer"
-/>
 
-</div>
+![Divider](https://raw.githubusercontent.com/verionofc/.github/main/components/ui/divider.svg)
