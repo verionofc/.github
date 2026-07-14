@@ -6,15 +6,9 @@
   width="128"
 />
 
-# <img src="https://raw.githubusercontent.com/verionofc/.github/main/assets/verion/svg/favicon.svg" width="32" valign="middle" /> Verion Studio, Inc.
+# Verion Studio, Inc.
 
 **Criando softwares, ferramentas e experiências open-source para desenvolvedores.**
-
-<br />
-
-[Website](https://verion.studio) •
-[GitHub](https://github.com/verionofc) •
-[Contato](mailto:studioverion@gmail.com)
 
 </div>
 
@@ -34,10 +28,20 @@ Entre em contato conosco para dúvidas, parcerias, suporte ou contribuições:
 - 💻 GitHub: [github.com/verionofc](https://github.com/verionofc)
 - ✉️ Email: studioverion@gmail.com
 
-<br />
+<br>
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/verionofc/.github/main/components/ui/divider.svg">
+</p>
 
-Copyright &copy; 2026 [Israel R. Jatobá](https://github.com/yeyTaken) & [Verion Studio, Inc](https://github.com/verionofc). All rights reserved.
+<p align="center">
+  Copyright © 2025  
+  <a href="https://github.com/yeyTaken" target="_blank">Israel R. Jatobá</a> &  
+  <a href="https://verionstudio.vercel.app/" target="_blank">Verion Studio, Inc</a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/verionofc/.github/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/verionofc/.github?style=for-the-badge&logo=github&color=050505&labelColor=fffff" />
+  </a>
+</p>
