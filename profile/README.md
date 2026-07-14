@@ -66,11 +66,8 @@ Entre em contato conosco para dúvidas, parcerias, suporte ou contribuições:
 
 <br />
 
-<h3 align="center">
-  Copyright © 2026
-</h3>
-
 <p align="center">
+  Copyright © 2026
   <a href="https://github.com/yeyTaken" target="_blank">
     Israel R. Jatobá
   </a>
