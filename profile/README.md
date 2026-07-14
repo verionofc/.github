@@ -3,7 +3,7 @@
 <img
   src="https://raw.githubusercontent.com/verionofc/.github/main/assets/verion/svg/favicon.svg"
   alt="Verion Studio Logo"
-  width="128"
+  width="64"
 />
 
 <p>
