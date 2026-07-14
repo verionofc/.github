@@ -7,7 +7,7 @@
 />
 
 <p>
-  <strong>Verion Studio, Inc.</strong>
+  <strong style="font-size: 1.5rem">Verion Studio, Inc.</strong>
 </p>
 
 <p>
